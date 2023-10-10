@@ -1,0 +1,15 @@
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\bin\Debug\ToolDevelop.exe.config
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\bin\Debug\ToolDevelop.exe
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\bin\Debug\ToolDevelop.pdb
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop.csproj.AssemblyReference.cache
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\MainWindow.g.cs
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\App.g.cs
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop_MarkupCompile.cache
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop_MarkupCompile.lref
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\MainWindow.baml
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop.g.resources
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop.Properties.Resources.resources
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop.csproj.GenerateResource.cache
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop.csproj.CoreCompileInputs.cache
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop.exe
+C:\Users\eduar\CS_Projects\repos\ToolDevelop\ToolDevelop\obj\Debug\ToolDevelop.pdb
